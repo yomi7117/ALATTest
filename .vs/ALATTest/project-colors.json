@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "220f3aa6-0a3a-4965-b425-0951068dd4cc": {
+      "ProjectGuid": "220f3aa6-0a3a-4965-b425-0951068dd4cc",
+      "DisplayName": "ALATTest.API",
+      "ColorIndex": 0
+    },
+    "13e73c04-c267-45b9-95e5-ed075dc26a9c": {
+      "ProjectGuid": "13e73c04-c267-45b9-95e5-ed075dc26a9c",
+      "DisplayName": "ALATTest.Domain",
+      "ColorIndex": 1
+    },
+    "cfb5afbe-4d0e-409c-8b0a-add0394343ba": {
+      "ProjectGuid": "cfb5afbe-4d0e-409c-8b0a-add0394343ba",
+      "DisplayName": "ALATTest.Repository",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fd2fadd3-4f43-424d-a3ff-495c6b5086ef": {
+      "ProjectGuid": "fd2fadd3-4f43-424d-a3ff-495c6b5086ef",
+      "DisplayName": "ALATTest.Utility",
+      "ColorIndex": 3
+    },
+    "f1d5dcdb-6393-43bd-8be6-62a8a5d2d9cf": {
+      "ProjectGuid": "f1d5dcdb-6393-43bd-8be6-62a8a5d2d9cf",
+      "DisplayName": "ALATTest.UnitTest",
+      "ColorIndex": 4
+    },
+    "8957a242-e8ef-465a-b75b-34cc1bf76cc4": {
+      "ProjectGuid": "8957a242-e8ef-465a-b75b-34cc1bf76cc4",
+      "DisplayName": "ALATTest.API",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

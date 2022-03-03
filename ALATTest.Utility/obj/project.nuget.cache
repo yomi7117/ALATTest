@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "66qFMjpMtY9h+k1p3wDAbOQ84l7nmYlx8PdJj7+YVvPfEJn2mlXv7j1PMx+td6+NCXgWq6Tdka38tDOJFdbE0g==",
+  "success": true,
+  "projectFilePath": "D:\\Yomi\\ALATTest\\ALATTest.Utility\\ALATTest.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABAYOMIOLUFEMI\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
